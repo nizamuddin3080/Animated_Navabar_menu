@@ -7,5 +7,5 @@ You Can use it for your website it's based on html css and javaScript
 
 ### Adding a Slider 
 
-  *Nivo Slider
-	*kk
+ 	* Nivo Slider
+
